@@ -1,0 +1,718 @@
+﻿Log file open, 03/04/18 19:05:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: IcaroProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1725401496) SRandInit(1725401497).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165158
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.04-18.05.19:170][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.04-18.05.19:170][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.04-18.05.19:186][  0]LogInit: Computer: DESKTOP-D26EPG2
+[2018.03.04-18.05.19:186][  0]LogInit: User: Luis
+[2018.03.04-18.05.19:186][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.04-18.05.19:186][  0]LogInit: High frequency timer resolution =2.533205 MHz
+[2018.03.04-18.05.19:187][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.04-18.05.19:187][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.04-18.05.19:187][  0]LogMemory: Process Physical Memory: 275.43 MB used, 275.43 MB peak
+[2018.03.04-18.05.19:187][  0]LogMemory: Process Virtual Memory: 271.89 MB used, 271.89 MB peak
+[2018.03.04-18.05.19:187][  0]LogMemory: Physical Memory: 8991.10 MB used,  7310.68 MB free, 16301.78 MB total
+[2018.03.04-18.05.19:187][  0]LogMemory: Virtual Memory: 680.10 MB used,  7310.68 MB free, 134217728.00 MB total
+[2018.03.04-18.05.19:296][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.03.04-18.05.19:296][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.03.04-18.05.19:722][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.04-18.05.19:965][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.04-18.05.20:006][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.03.04-18.05.20:006][  0]LogD3D11RHI:       3040/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.04-18.05.20:011][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.04-18.05.20:011][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.04-18.05.20:013][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.04-18.05.20:013][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.04-18.05.20:013][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.04-18.05.20:019][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.04-18.05.20:019][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.04-18.05.20:019][  0]LogWindows: EnumDisplayDevices:
+[2018.03.04-18.05.20:019][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.03.04-18.05.20:019][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.04-18.05.20:019][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.04-18.05.20:019][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.04-18.05.20:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.03.04-18.05.20:020][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.04-18.05.20:020][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.04-18.05.20:020][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.03.04-18.05.20:041][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.04-18.05.20:052][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.04-18.05.20:053][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/Luis/Desktop/IcaroProject/Intermediate/Shaders/WorkingDirectory/2244/).
+[2018.03.04-18.05.20:053][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luis/AppData/Local/Temp/UnrealShaderWorkingDir/663AC6A0485768B9BF48EA8EAECE8F96/'.
+[2018.03.04-18.05.20:053][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.04-18.05.21:099][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.04-18.05.21:146][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.04-18.05.21:186][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.04-18.05.21:231][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.04-18.05.21:272][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.04-18.05.21:316][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.04-18.05.21:357][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.04-18.05.21:402][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.04-18.05.21:445][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.04-18.05.21:493][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.04-18.05.21:536][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.04-18.05.21:576][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.04-18.05.21:617][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.04-18.05.21:656][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.04-18.05.21:738][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.04-18.05.21:739][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.04-18.05.21:779][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.04-18.05.21:808][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.04-18.05.21:884][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.04-18.05.21:908][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.04-18.05.21:951][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.04-18.05.21:995][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.04-18.05.22:037][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.04-18.05.22:081][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.04-18.05.22:081][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.04-18.05.22:444][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.04-18.05.22:517][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Luis/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.04-18.05.22:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luis/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.04-18.05.22:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Luis/Desktop/IcaroProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.04-18.05.22:517][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.04-18.05.22:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Luis/Desktop/IcaroProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.04-18.05.22:517][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.04-18.05.22:535][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.04-18.05.22:547][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.04-18.05.22:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.04-18.05.22:558][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.04-18.05.22:559][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.04-18.05.22:559][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.04-18.05.22:943][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.04-18.05.23:135][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.04-18.05.23:164][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.04-18.05.23:164][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.04-18.05.23:164][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.04-18.05.23:164][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.04-18.05.23:164][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.04-18.05.23:267][  0]LogNetVersion: IcaroProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3032629228)
+[2018.03.04-18.05.23:406][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2018.03.04-18.05.23:845][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.040660 seconds
+[2018.03.04-18.05.23:851][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.03.04-18.05.23:851][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.03.04-18.05.23:851][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.04-18.05.23:888][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.04-18.05.26:191][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.04-18.05.26:224][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.04-18.05.26:749][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.04-18.05.27:082][  0]SourceControl: Source control is disabled
+[2018.03.04-18.05.27:082][  0]SourceControl: Source control is disabled
+[2018.03.04-18.05.27:125][  0]SourceControl: Source control is disabled
+[2018.03.04-18.05.27:165][  0]SourceControl: Source control is disabled
+[2018.03.04-18.05.27:793][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.04-18.05.28:003][  0]LogOcInput: OculusInput pre-init called
+[2018.03.04-18.05.28:233][  0]LogEngine: Initializing Engine...
+[2018.03.04-18.05.28:236][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.04-18.05.28:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.04-18.05.28:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.04-18.05.28:535][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.04-18.05.28:542][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-18.05.28:561][  0]LogInit: FAudioDevice initialized.
+[2018.03.04-18.05.28:624][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/Luis/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.04-18.05.28:636][  0]LogInit: Texture streaming: Enabled
+[2018.03.04-18.05.28:705][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.04-18.05.28:806][  0]LogInit: Transaction tracking system initialized
+[2018.03.04-18.05.29:051][  0]BlueprintLog: New page: Editor Load
+[2018.03.04-18.05.29:706][  0]LocalizationService: Localization service is disabled
+[2018.03.04-18.05.30:286][  0]LogConsoleResponse: Display: 
+[2018.03.04-18.05.30:438][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.04-18.05.30:438][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.04-18.05.30:438][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.04-18.05.31:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/IcaroProject/Content/' took 0.02s
+[2018.03.04-18.05.31:429][  0]SourceControl: Source control is disabled
+[2018.03.04-18.05.31:429][  0]Cmd: MAP LOAD FILE="C:/Users/Luis/Desktop/IcaroProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.04-18.05.31:435][  0]LightingResults: New page: Lighting Build
+[2018.03.04-18.05.31:470][  0]MapCheck: New page: Map Check
+[2018.03.04-18.05.31:470][  0]LightingResults: New page: Lighting Build
+[2018.03.04-18.05.32:349][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.04-18.05.32:357][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.04-18.05.32:371][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.04-18.05.32:413][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.48ms to complete.
+[2018.03.04-18.05.32:413][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.984
+[2018.03.04-18.05.32:554][  0]LogCollectionManager: Loaded 0 collections in 0.000832 seconds
+[2018.03.04-18.05.32:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/IcaroProject/Saved/Collections/' took 0.01s
+[2018.03.04-18.05.32:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/IcaroProject/Content/Developers/Luis/Collections/' took 0.01s
+[2018.03.04-18.05.32:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luis/Desktop/IcaroProject/Content/Collections/' took 0.01s
+[2018.03.04-18.05.32:625][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.04-18.05.32:635][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2363 classes and 519 folders.
+[2018.03.04-18.05.32:682][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.04-18.05.32:719][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.04-18.05.32:754][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.04-18.05.32:772][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.04-18.05.32:774][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.04-18.05.32:780][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.04-18.05.32:877][  0]LogRenderer: Reallocating scene render targets to support 852x452 Format 10 NumSamples 1 (Frame:1).
+[2018.03.04-18.05.33:054][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.04-18.05.33:054][  0]LogLoad: (Engine Initialization) Total time: 15.76 seconds
+[2018.03.04-18.05.33:054][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.04-18.05.33:054][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.04-18.05.33:072][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.04-18.05.33:092][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.04-18.05.33:153][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-18.05.33:457][  6]LogAssetRegistry: Asset discovery search completed in 10.0732 seconds
+[2018.03.04-18.05.33:460][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.04-18.05.33:460][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2018.03.04-18.05.47:360][725]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Mud_roughness (AutoDXT, 1024X1024)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Grass_roughness (AutoDXT, 660X660)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.03.04-18.05.50:217][725]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Mud_difuso (AutoDXT, 1024X1024)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Rock_difuso (AutoDXT, 1024X1024)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X512)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X512)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X256)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X256)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Mud_normal (BC5, 1024X1024)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 128X128)
+[2018.03.04-18.05.50:218][725]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 128X128)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Rock_roughness (AutoDXT, 1024X1024)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Rock_normal (BC5, 1024X1024)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Grass_normal (BC5, 660X660)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: Grass_difuso (AutoDXT, 660X660)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.03.04-18.05.50:219][725]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.03.04-18.05.50:220][725]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2018.03.04-18.05.50:220][725]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.03.04-18.05.50:249][725]LogMaterial: Missing cached shader map for material LandscapeMAT, compiling. 
+[2018.03.04-18.05.50:337][725]LogMaterial: Missing cached shader map for material LandscapeMAT, compiling. 
+[2018.03.04-18.05.50:434][725]LogMaterial: Missing cached shader map for material LandscapeMAT, compiling. 
+[2018.03.04-18.05.50:520][725]LogMaterial: Missing cached shader map for material LandscapeMAT, compiling. 
+[2018.03.04-18.05.50:592][725]LogAIModule: Creating AISystem for world Island
+[2018.03.04-18.05.50:641][725]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.04-18.05.50:669][725]Cmd: MAP LOAD FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.04-18.05.50:669][725]LightingResults: New page: Lighting Build
+[2018.03.04-18.05.50:670][725]LoadErrors: New page: Loading map: Island.umap
+[2018.03.04-18.05.50:671][725]MapCheck: New page: Map Check
+[2018.03.04-18.05.50:671][725]LightingResults: New page: Lighting Build
+[2018.03.04-18.05.51:177][725]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.04-18.05.51:234][725]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.04-18.05.51:311][725]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.22ms to complete.
+[2018.03.04-18.05.51:311][725]LogFileHelpers: Loading map 'Island' took 0.643
+[2018.03.04-18.06.18:409][237]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-18.06.19:468][279]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.04-18.06.20:109][279]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.04-18.06.26:478][602]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.04-18.07.28:952][486]LogSlate: Took 0.282944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.04-18.07.31:970][666]BlueprintLog: New page: Compile Island
+[2018.03.04-18.07.39:933][142]BlueprintLog: New page: Compile Island
+[2018.03.04-18.11.08:997][ 14]BlueprintLog: New page: Compile Island
+[2018.03.04-18.11.42:713][493]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_AddLocalRotation' [No se ha encontrado el elemento.]
+[2018.03.04-18.13.55:436][ 63]BlueprintLog: New page: Compile Island
+[2018.03.04-18.15.21:645][644]BlueprintLog: New page: Compile Island
+[2018.03.04-18.15.22:563][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-18.15.23:429][688]LogSavePackage: Save=827.70ms
+[2018.03.04-18.15.23:429][688]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/IslandDF49467E478BCBA2662E0487C76FF0DA.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap'
+[2018.03.04-18.15.23:436][688]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap
+[2018.03.04-18.15.23:472][688]LogFileHelpers: Saving map 'Island' took 0.957
+[2018.03.04-18.16.05:751][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-18.16.06:659][971]LogSavePackage: Save=882.76ms
+[2018.03.04-18.16.06:659][971]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/IslandCE05DEBB4A6679A9D4664287A647F2CF.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap'
+[2018.03.04-18.16.06:663][971]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap
+[2018.03.04-18.16.06:684][971]LogFileHelpers: Saving map 'Island' took 0.992
+[2018.03.04-18.16.07:876][ 38]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.03.04-18.16.09:224][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.16.09:224][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-18.16.09:224][106]PIE: New page: PIE session: Island (Mar 4, 2018, 8:16:09 PM)
+[2018.03.04-18.16.09:224][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Island
+[2018.03.04-18.16.09:257][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032121s)
+[2018.03.04-18.16.09:257][106]LogAIModule: Creating AISystem for world Island
+[2018.03.04-18.16.09:258][106]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2018.03.04-18.16.09:258][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Island.Island to /Game/Maps/UEDPIE_0_Island.Island (0.033349s)
+[2018.03.04-18.16.09:277][106]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-18.16.09:290][106]LogInit: FAudioDevice initialized.
+[2018.03.04-18.16.09:333][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.04-18.16.09:338][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Island.Island up for play (max tick rate 60) at 2018.03.04-19.16.09
+[2018.03.04-18.16.09:339][106]LogWorld: Bringing up level for play took: 0.003316
+[2018.03.04-18.16.09:372][106]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.04-18.16.09:374][106]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Island 0.215
+[2018.03.04-18.16.09:374][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.16.54:822][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.16.54:865][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.17.13:030][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luis\Desktop\Plant_Albedo.png)
+[2018.03.04-18.17.13:198][494]LogTexture: Display: Building textures: Plant_Albedo (AutoDXT, 2048X2048)
+[2018.03.04-18.17.13:685][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Luis\Desktop\Plant_Emissive.png)
+[2018.03.04-18.17.13:833][494]LogTexture: Display: Building textures: Plant_Emissive (AutoDXT, 2048X2048)
+[2018.03.04-18.18.34:345][547]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.03.04-18.18.39:941][879]LogEditorViewport: Clicking on Actor (LMB): NightPlantBP_C (NightPlantBP)
+[2018.03.04-18.18.40:685][922]Cmd: EDIT COPY
+[2018.03.04-18.18.40:856][932]Cmd: EDIT PASTE
+[2018.03.04-18.18.44:185][130]Cmd: EDIT PASTE
+[2018.03.04-18.18.46:842][287]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.03.04-18.18.46:977][293]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.03.04-18.18.48:129][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.18.48:129][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-18.18.48:129][359]PIE: New page: PIE session: Island (Mar 4, 2018, 8:18:48 PM)
+[2018.03.04-18.18.48:129][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Island
+[2018.03.04-18.18.48:160][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030939s)
+[2018.03.04-18.18.48:161][359]LogAIModule: Creating AISystem for world Island
+[2018.03.04-18.18.48:161][359]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2018.03.04-18.18.48:161][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Island.Island to /Game/Maps/UEDPIE_0_Island.Island (0.032045s)
+[2018.03.04-18.18.48:180][359]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-18.18.48:193][359]LogInit: FAudioDevice initialized.
+[2018.03.04-18.18.48:225][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.04-18.18.48:229][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Island.Island up for play (max tick rate 60) at 2018.03.04-19.18.48
+[2018.03.04-18.18.48:229][359]LogWorld: Bringing up level for play took: 0.003118
+[2018.03.04-18.18.48:232][359]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Island 1.073
+[2018.03.04-18.18.48:232][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.18.59:104][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.18.59:138][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.23.13:925][832]LogEditorViewport: Clicking on Actor (LMB): NightPlantBP_C (NightPlantBP)
+[2018.03.04-18.23.14:791][882]LogEditorViewport: Clicking on Actor (CTRL LMB): NightPlantBP_C (NightPlantBP2)
+[2018.03.04-18.23.15:931][949]Cmd: DELETE
+[2018.03.04-18.23.15:931][949]Cmd: ACTOR DELETE
+[2018.03.04-18.23.15:937][949]LogEditorActor: Deleted Actor: NightPlantBP_C
+[2018.03.04-18.23.15:938][949]LogEditorActor: Deleted Actor: NightPlantBP_C
+[2018.03.04-18.23.15:960][949]LogEditorActor: Deleted 2 Actors (0.030 secs)
+[2018.03.04-18.23.17:534][ 44]LogEditorViewport: Clicking on Actor (LMB): NightPlantBP_C (NightPlantBP3)
+[2018.03.04-18.24.08:293][224]BlueprintLog: New page: Compile Island
+[2018.03.04-18.27.20:143][956]BlueprintLog: New page: Compile Island
+[2018.03.04-18.27.21:316][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-18.27.22:359][ 13]LogSavePackage: Save=1009.50ms
+[2018.03.04-18.27.22:359][ 13]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/IslandD1DCD5884E6BE1599CED318C83232728.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap'
+[2018.03.04-18.27.22:363][ 13]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap
+[2018.03.04-18.27.22:528][ 13]LogFileHelpers: Saving map 'Island' took 1.265
+[2018.03.04-18.27.24:376][113]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.03.04-18.27.25:829][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.27.25:829][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-18.27.25:829][194]PIE: New page: PIE session: Island (Mar 4, 2018, 8:27:25 PM)
+[2018.03.04-18.27.25:829][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Island
+[2018.03.04-18.27.25:862][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032919s)
+[2018.03.04-18.27.25:863][194]LogAIModule: Creating AISystem for world Island
+[2018.03.04-18.27.25:863][194]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.03.04-18.27.25:864][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Island.Island to /Game/Maps/UEDPIE_0_Island.Island (0.034117s)
+[2018.03.04-18.27.25:886][194]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-18.27.25:899][194]LogInit: FAudioDevice initialized.
+[2018.03.04-18.27.25:930][194]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.04-18.27.25:934][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Island.Island up for play (max tick rate 60) at 2018.03.04-19.27.25
+[2018.03.04-18.27.25:934][194]LogWorld: Bringing up level for play took: 0.003051
+[2018.03.04-18.27.25:937][194]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Island 0.778
+[2018.03.04-18.27.25:937][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.28.40:490][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.28.40:527][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.29.05:936][175]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.03.04-18.29.09:809][368]LogEditorViewport: Clicking on Actor (LMB): NightPlantBP_C (NightPlantBP3)
+[2018.03.04-18.31.35:405][762]BlueprintLog: New page: Compile Island
+[2018.03.04-18.31.36:090][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-18.31.37:046][782]LogSavePackage: Save=937.04ms
+[2018.03.04-18.31.37:046][782]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/Island631EF6624066D70E6D16FB88F223794D.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap'
+[2018.03.04-18.31.37:056][782]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap
+[2018.03.04-18.31.37:093][782]LogFileHelpers: Saving map 'Island' took 1.052
+[2018.03.04-18.36.35:161][457]BlueprintLog: New page: Compile Island
+[2018.03.04-18.36.40:420][753]BlueprintLog: New page: Compile Island
+[2018.03.04-18.36.41:134][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-18.36.42:120][777]LogSavePackage: Save=952.77ms
+[2018.03.04-18.36.42:120][777]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/IslandD879005047D7F91D991DF48E537C8C61.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap'
+[2018.03.04-18.36.42:124][777]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap
+[2018.03.04-18.36.42:160][777]LogFileHelpers: Saving map 'Island' took 1.078
+[2018.03.04-18.36.51:666][337]Cmd: DELETE
+[2018.03.04-18.36.51:666][337]Cmd: ACTOR DELETE
+[2018.03.04-18.36.53:319][337]LogEditorActor: Deleted Actor: NightPlantBP_C
+[2018.03.04-18.36.53:340][337]LogEditorActor: Deleted 1 Actors (1.675 secs)
+[2018.03.04-18.37.02:704][874]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.03.04-18.37.03:699][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.37.03:699][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-18.37.03:699][928]PIE: New page: PIE session: Island (Mar 4, 2018, 8:37:03 PM)
+[2018.03.04-18.37.03:699][928]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Island
+[2018.03.04-18.37.03:735][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036187s)
+[2018.03.04-18.37.03:736][928]LogAIModule: Creating AISystem for world Island
+[2018.03.04-18.37.03:736][928]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.03.04-18.37.03:737][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Island.Island to /Game/Maps/UEDPIE_0_Island.Island (0.037359s)
+[2018.03.04-18.37.03:760][928]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-18.37.03:777][928]LogInit: FAudioDevice initialized.
+[2018.03.04-18.37.03:809][928]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.04-18.37.03:813][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Island.Island up for play (max tick rate 60) at 2018.03.04-19.37.03
+[2018.03.04-18.37.03:813][928]LogWorld: Bringing up level for play took: 0.003102
+[2018.03.04-18.37.03:815][928]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Island 0.657
+[2018.03.04-18.37.03:816][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.38.06:075][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.38.06:117][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Island.Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Island.Island:PersistentLevel.Island' with GeneratedClass '/Game/Maps/Island.Island_C' with ClassGeneratedBy '/Game/Maps/Island.Island:PersistentLevel.Island'
+[2018.03.04-18.38.28:008][713]BlueprintLog: New page: Compile Island
+[2018.03.04-18.38.28:788][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.04-18.38.29:756][743]LogSavePackage: Save=949.64ms
+[2018.03.04-18.38.29:756][743]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/Island3E572F9345CFD8A552124896EE5AE426.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap'
+[2018.03.04-18.38.29:760][743]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Maps/Island.umap
+[2018.03.04-18.38.29:781][743]LogFileHelpers: Saving map 'Island' took 1.043
+[2018.03.04-18.38.53:748][144]LogEditorViewport: Clicking on Actor (LMB): NightPlantBP_C (NightPlantBP4)
+[2018.03.04-18.38.59:386][479]LogEditorViewport: Clicking on Actor (LMB): NightPlantBP_C (NightPlantBP)
+[2018.03.04-18.39.00:653][553]LogEditorViewport: Clicking on Actor (CTRL LMB): NightPlantBP_C (NightPlantBP5)
+[2018.03.04-18.39.01:930][627]LogEditorViewport: Clicking on Actor (CTRL LMB): NightPlantBP_C (NightPlantBP3)
+[2018.03.04-18.39.02:920][684]Cmd: DELETE
+[2018.03.04-18.39.02:920][684]Cmd: ACTOR DELETE
+[2018.03.04-18.39.02:936][684]LogEditorActor: Deleted Actor: NightPlantBP_C
+[2018.03.04-18.39.02:937][684]LogEditorActor: Deleted Actor: NightPlantBP_C
+[2018.03.04-18.39.02:939][684]LogEditorActor: Deleted Actor: NightPlantBP_C
+[2018.03.04-18.39.02:973][684]LogEditorActor: Deleted 3 Actors (0.052 secs)
+[2018.03.04-18.43.11:233][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/EGameModes" FILE="C:/Users/Luis/Desktop/IcaroProject/Content/Blueprints/Game/EGameModes.uasset" SILENT=true
+[2018.03.04-18.43.11:241][466]LogSavePackage: Save=5.46ms
+[2018.03.04-18.43.11:241][466]LogSavePackage: Moving 'C:/Users/Luis/Desktop/IcaroProject/Saved/EGameModesFB17D68D4BE1C97D09D9FBA910A14A35.tmp' to 'C:/Users/Luis/Desktop/IcaroProject/Content/Blueprints/Game/EGameModes.uasset'
+[2018.03.04-18.43.11:247][466]LogSavePackage: Display: Finished SavePackage C:/Users/Luis/Desktop/IcaroProject/Content/Blueprints/Game/EGameModes.uasset
+[2018.03.04-18.47.07:782][896]LogEditorTransaction: Undo Edit Top
+[2018.03.04-18.47.07:882][896]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.096 s
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: 
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: 
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: Stack: 
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: [Callstack] 0x0000000026382786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.04-18.47.07:882][896]LogOutputDevice: Error: [Callstack] 0x000000002612123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000002613B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000171E0B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001718DE01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000025362643 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000253634D9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000253A74B8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000002529F2C8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000002521A797 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000002521FA57 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000251C8635 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000252C28CE UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000002521B877 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000025220BB7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029C93675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029AA8CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A48824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001493B4DC UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000149E66B2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000149837D6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000149312E5 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000014A12619 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000149E016B UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000016580B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001658588C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001853D4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001753B5FF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000166EE721 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001718EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000171B6112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001719DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000001719E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000172028FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000017245A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000016580FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000016585D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A49636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A883A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000179FBE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000179E7803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A363A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A0700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A08C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A8988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000029A7BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000003D6FE28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000003D6F1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000003D7003EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000003D6ED5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000068BCB85D USER32.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000068BCB1EF USER32.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000003D701516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000005BC950C8 UE4Editor.exe!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000005BCA5430 UE4Editor.exe!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000005BCA54AA UE4Editor.exe!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000005BCB2379 UE4Editor.exe!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x000000005BCB3D57 UE4Editor.exe!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x00000000663B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: [Callstack] 0x0000000068DEEFC1 ntdll.dll!UnknownFunction []
+[2018.03.04-18.47.07:883][896]LogOutputDevice: Error: 
+[2018.03.04-18.47.07:893][896]LogStats:                SubmitErrorReport -  0.000 s
